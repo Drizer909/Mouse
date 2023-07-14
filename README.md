@@ -1,10 +1,8 @@
-# AI-Virtual-Mouse
+# AI-mouse
 
 Setting up and running:
 
 Python (3.6–3.8.5) is a prerequisite.
-
-Anaconda Dispersal: 
 
 Download and extract the Virtual-Mouse project folder.
 
